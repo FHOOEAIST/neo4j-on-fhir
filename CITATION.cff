@@ -1,14 +1,22 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "template"
+- family-names: "Pointner"
+  given-names: "Andreas"
+  email: "andreas.pointner@fh-hagenberg.at"
+  orcid: "https://orcid.org/0000-0001-8642-1161"
+  affiliation: "Advanced Information Systems and Technology"
+- family-names: "Praschl"
+  given-names: "Christoph"
+  email: "christoph.praschl@fh-hagenberg.at"
+  orcid: "https://orcid.org/0000-0002-9711-4818"
+  affiliation: "Advanced Information Systems and Technology"
+- family-names: "Krauss"
+  given-names: "Oliver"
+  email: "oliver.krauss@fh-hagenberg.at"
+  orcid: "https://orcid.org/0000-0002-8136-2606"
+  affiliation: "Advanced Information Systems and Technology"
+title: "Enhancing Interoperability of HL7 Resources Using Namespaces in Graph Databases"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2022-07-24
-url: "https://citation-file-format.github.io/cff-initializer-javascript/"
+date-released: 2023-03-30
+url: "https://github.com/FHOOEAIST/aist-neo4j"
